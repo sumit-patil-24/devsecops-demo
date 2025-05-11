@@ -47,4 +47,3 @@ const ScoreBoard: React.FC<ScoreBoardProps> = ({ scores }) => {
 };
 
 export default ScoreBoard;
-
